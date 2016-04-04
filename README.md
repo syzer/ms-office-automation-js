@@ -13,3 +13,13 @@ vba script for office => javascipt for office
 bower install
 gulp serve-static
 ```
+
+# Credits
+
+if you think its amazing and you want to make your one
+
+```
+npm install -g tsd bower gulp yo generator-office
+yo office
+gulp serve-static
+```
