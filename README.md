@@ -1,5 +1,7 @@
 # WAT
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/syzer/ms-office-automation-js.svg)](https://greenkeeper.io/)
+
 vba script for office => javascipt for office
 
 # WHY
